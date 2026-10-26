@@ -1,0 +1,14 @@
+{
+  "name": "All-Marketing-SEO-Skills",
+  "owner": "walkinthemoon9999-tech",
+  "plugins": {
+    "marketing-skills": {
+      "name": "Marketing Agent Skills",
+      "description": "A collection of AI agent skills focused on marketing tasks, SEO, CRO, and growth engineering.",
+      "source": {
+        "type": "git",
+        "repo": "https://github.com/walkinthemoon9999-tech/All-Marketing-SEO-Skills"
+      }
+    }
+  }
+}
