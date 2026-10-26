@@ -1,0 +1,12 @@
+{
+  "name": "marketing-skills",
+  "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, ad creative, and growth",
+  "version": "1.o",
+  "author": {
+    "name": "mx"
+  },
+  "homepage": "https://github.com/walkinthemoon9999-tech/All-Marketing-SEO-Skills",
+  "repository": "https://github.com/walkinthemoon9999-tech/All-Marketing-SEO-Skills",
+  "license": "none",
+  "skills": "./skills"
+}
